@@ -1,4 +1,4 @@
-#' Gráfico da capacidade instalada acumulada
+#' Gráfico da capacidade instalada acumulada {5}{6}
 #'
 #' @param dados data.frame Resultados mensais de potencia e energia
 #'
